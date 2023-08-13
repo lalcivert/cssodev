@@ -1,0 +1,10 @@
+h1,h3,h2{
+    text-align: center;
+}
+ol,ul,li{
+    text-align: center;
+}
+
+li{
+    list-style-position: inside
+}
